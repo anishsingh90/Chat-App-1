@@ -11,7 +11,7 @@ function App() {
       <Right></Right>
       </div>
       </>
-    </div>
+    </div> 
   )
 }
 
