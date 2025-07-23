@@ -3,7 +3,7 @@ import Left from './home/left/left';
 import Right from './home/right/right';
 
 function App() {
-  return (
+  return ( 
     <div>
       <>
       <div className='flex h-screen'>
